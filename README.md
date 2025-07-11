@@ -2,11 +2,11 @@
 > 🗓️ Created during my **Second Year** of university.
 
 ## 📌 Project Overview
-This project was implemented as a **two-person collaborative assignment**.
-
 This project models a weighted graph using city names and implements custom hashing techniques to manage vertex indexing. All operations are handled via **custom data structures and algorithms**, avoiding the use of Java’s built-in graph-related libraries.
 
-> 🔒 Note: Usage of known algorithms (like Dijkstra) or Java’s built-in graph libraries was forbidden.
+> 🔒 Note:
+> Implemented as a **two-person collaborative assignment**.
+> Usage of known algorithms (like Dijkstra) or Java’s built-in graph libraries was forbidden.
 
 ---
 
