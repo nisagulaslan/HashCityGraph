@@ -2,7 +2,7 @@
 > 🗓️ Created during my **Second Year** of university.
 
 ## 📌 Project Overview
-This project was implemented as a **two-person collaborative assignment**, focusing on data structures and algorithmic problem solving.
+This project was implemented as a **two-person collaborative assignment**.
 
 This project models a weighted graph using city names and implements custom hashing techniques to manage vertex indexing. All operations are handled via **custom data structures and algorithms**, avoiding the use of Java’s built-in graph-related libraries.
 
